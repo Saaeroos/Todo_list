@@ -1,5 +1,5 @@
 # Todo_list
-this project was done followin a tutroial during the guide periode in Restart Network.
+this project was done following a tutroial during the guide periode in Restart Network.
 
 ### Technologies Used building this project: 
 * nodejs.
