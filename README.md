@@ -2,11 +2,11 @@
 this project was done followin a tutroial during the guide periode in Restart Network.
 
 ### Technologies Used building this project: 
-* nodejs(express)
-* mongodb
+* nodejs.
+* mongodb.
 
-## This project was deployed using: 
-* google cloud platform(backEnd)
+### This project was deployed using: 
+* google cloud platform.
 
-## link for deployed app below:
+### link for deployed app below:
 https://to-do-list-196111.appspot.com/todo
