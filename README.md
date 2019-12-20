@@ -9,4 +9,4 @@ this project was done following a tutroial during the guide periode in Restart N
 * google cloud platform.
 
 ### link for deployed app below:
-https://to-do-list-196111.appspot.com/todo
+https://elated-brown-d8e613.netlify.com/
